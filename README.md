@@ -11,7 +11,7 @@ If you are working on this project via Upwork, see also our [Upwork Rules of Eng
 - It will implement feaseible security checks outlined in [Abridged Amendment 3 ] (https://github.com/filetrust/program-icap/wiki/Abridged-Amendment-3)
 
 **Process Flow:**
-<br><img src="../img/CI-CD.png" alt="CI CD pipeline" width="650"/><br>
+<br><img src="https://engineering.glasswallsolutions.com/img/CI-CD.png" width="650"/><br>
 source : CI/CD for GitHub Repository guideline from Glasswall Engineering.
 
    ### Gated Build
