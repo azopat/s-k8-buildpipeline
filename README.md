@@ -14,7 +14,7 @@ If you are working on this project via Upwork, see also our [Upwork Rules of Eng
 <br><img src="../img/CI-CD.png" alt="CI CD pipeline" width="650"/><br>
 source : CI/CD for GitHub Repository guideline from Glasswall Engineering.
 
-	###Gated Build
+   ### Gated Build
 AGated build which will build our code and run tests on pull requests
 On the GitHub repo, go to Actions > New workflow > set up a workflow will be done by the respective repo editors.
 Name the file 'gated.yml'
@@ -22,7 +22,7 @@ The Gated file code from the this repo will be inherited by respective repo.
 Standardize to trigger unit tests, publishing code coverage. 
 Start commit > create new branch and start a pull request
 
-	###CI Build
+   ### CI Build
 Next step is to set-up a CI build which will deploy code to a QA environment, run tests, and merge to the master branch if successful.
 
 On the GitHub repo, go to Actions > New workflow > set up a workflow will be done by the respective repo editors.
@@ -32,7 +32,7 @@ Standardize to trigger unit tests, publishing code coverage, environment and dep
 Add any needed secrets (Access Ids and key) to the repo settings.
 Start commit > create new branch and start a pull request
 
-	###Deploy Build
+   ### Deploy Build
 Next step is to set-up a Deploy build which will deploy our code to a Stage environment, run tests, and deploy to product if successful.
 
 On the GitHub repo, go to Actions > New workflow > set up a workflow will be done by the respective repo editors.
