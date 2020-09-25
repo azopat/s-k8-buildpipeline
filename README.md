@@ -6,7 +6,7 @@ If you are working on this project via Upwork, see also our [Upwork Rules of Eng
 
 **Objective**: Standardize a set of common CI Pipeline patterns that all projects will follow  using GitHub Actions
 
-- The CI pipeline will inherit principles from [CI/CD for GitHub Repository guideline] https://engineering.glasswallsolutions.com/docs/guides/ci-cd-pipeline 
+- The CI pipeline will inherit principles from [CI/CD for GitHub Repository guideline] https://engineering.glasswallsolutions.com/docs/guides/ci-cd-pipeline )
 
 - It will implement feaseible security checks outlined in [Abridged Amendment 3 ] (https://github.com/filetrust/program-icap/wiki/Abridged-Amendment-3)
 
